@@ -2,3 +2,7 @@
 	path = robohead
 	url = https://github.com/DarkSteelD/robohead.git
 	branch = master
+[submodule "control-robot"]
+	path = control-robot
+	url = https://git.djft.ru/robot-intuitive-machines/hight-level-robotics-congnitive-agent.git
+	branch = main
